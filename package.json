@@ -1,0 +1,16 @@
+{
+  "name": "projeto1_alex",
+  "version": "2.0.0",
+  "description": "Aqui apenas separamos as rotas e os dados em pastas.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
